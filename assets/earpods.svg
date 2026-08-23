@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 400" role="img" aria-labelledby="title desc">
+<title id="title">Earpods</title><desc id="desc">A simple white wireless earpods illustration.</desc>
+<rect width="500" height="400" fill="#fafbfc"/>
+<g transform="translate(80 35)">
+<rect x="120" y="205" width="210" height="105" rx="48" fill="#151922"/>
+<rect x="132" y="216" width="186" height="82" rx="38" fill="#f7f9fc"/>
+<circle cx="225" cy="258" r="7" fill="#1d8fff"/>
+<path d="M105 40 C70 40 45 67 45 102 C45 125 58 143 76 153 L76 226 C76 250 94 267 117 267 C139 267 157 250 157 226 L157 132 C157 91 139 40 105 40Z" fill="#fff" stroke="#d7dde6" stroke-width="6"/>
+<path d="M345 40 C380 40 405 67 405 102 C405 125 392 143 374 153 L374 226 C374 250 356 267 333 267 C311 267 293 250 293 226 L293 132 C293 91 311 40 345 40Z" fill="#fff" stroke="#d7dde6" stroke-width="6"/>
+<circle cx="105" cy="96" r="9" fill="#1d8fff"/><circle cx="345" cy="96" r="9" fill="#1d8fff"/>
+</g></svg>

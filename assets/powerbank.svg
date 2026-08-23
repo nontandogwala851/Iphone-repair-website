@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 400" role="img" aria-labelledby="title desc">
+<title id="title">Powerbank</title><desc id="desc">A simple blue and white powerbank illustration.</desc>
+<rect width="500" height="400" fill="#fafbfc"/>
+<g transform="translate(115 45)">
+<rect x="35" y="15" width="200" height="290" rx="28" fill="#151922"/>
+<rect x="50" y="30" width="170" height="260" rx="20" fill="#f7f9fc"/>
+<rect x="100" y="0" width="70" height="20" rx="7" fill="#151922"/>
+<circle cx="135" cy="62" r="7" fill="#1d8fff"/>
+<rect x="80" y="105" width="110" height="50" rx="10" fill="#e9f3ff"/>
+<path d="M140 98 L118 137 H137 L125 170 L165 123 H145 Z" fill="#1d8fff"/>
+<rect x="93" y="205" width="84" height="8" rx="4" fill="#cfd6df"/>
+<rect x="104" y="226" width="62" height="8" rx="4" fill="#cfd6df"/>
+</g></svg>
